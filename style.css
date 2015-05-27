@@ -58,3 +58,15 @@ html, body {
 .img-media {
 	margin: 12px 0;
 }
+
+/* Footer */
+.footer {
+	background-color: #333333;
+	color: #fff;
+	padding:60px 0;
+}
+
+.img-social-media {
+	height: 24px;
+	margin-right: 12px;
+}
