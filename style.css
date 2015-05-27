@@ -27,4 +27,20 @@ html, body {
 /* Jumbotron */
 .jumbotron {
 	background-color: transparent;
+	padding: 120px 0 160px;
+}
+
+.jumbotron h1 {
+	font-size: 52px;
+}
+
+.emphasis {
+	color: #FFC200;
+}
+
+/* Banner */
+.banner {
+	background-color: #333333;
+	color: #fff;
+	padding: 20px;
 }
