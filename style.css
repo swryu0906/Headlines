@@ -44,3 +44,17 @@ html, body {
 	color: #fff;
 	padding: 20px;
 }
+
+/* Cards */
+.cards {
+	background-color: #FFC200;
+	padding: 80px 0 92px;
+}
+
+.cards h2 {
+	margin-bottom: 48px;
+}
+
+.img-media {
+	margin: 12px 0;
+}
